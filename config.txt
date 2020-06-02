@@ -1,6 +1,5 @@
 [user]
 	email = karl_kadaja@hotmail.com
-	name = Karl Martin Kadaja
 [filter "lfs"]
 	required = true
 	clean = git-lfs clean -- %f
